@@ -15,15 +15,17 @@ public class LocaleExtractorTest {
 
     @Test //TODO
     public void testToLocaleEn() throws Exception {
+        assertEquals(Locale.ENGLISH, LocaleExtractor.toLocale("en"));
     }
 
     @Test(expectedExceptions = NullPointerException.class)
     public void testToLocaleNull() throws Exception {
-        LocaleExtractor.toLocale(null);
+        assertEquals(null, LocaleExtractor.toLocale(null));
     }
 
     @Test //TODO
     public void testToLocaleNEmpty() throws Exception {
+        assertEquals(false, LocaleExtractor.toLocale("en").getLanguage().isEmpty());
 
     }
 

@@ -14,14 +14,17 @@ public class Main {
         final String localeRead = scanInput.nextLine();
         final Locale locale = LocaleExtractor.toLocale(localeRead);
 
-
+        System.out.println(locale);
         System.out.println("Enter your text : ");
         final String input = scanInput.nextLine();
         scanInput.close();
 
+
         final SmpInputValidator validator = SmpInputValidatorFactory.fromLocale(locale);
         final SmpDataTransformer transformer = new SmpDataTransformer(validator);
-        final String transformedInput = transformer.transform(input);
+        final String transformedInput = transformer.transform(input,locale.getLanguage());
         System.out.println(transformedInput);
     }
 }
+
+
