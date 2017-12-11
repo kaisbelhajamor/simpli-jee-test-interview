@@ -36,12 +36,14 @@ public class SmpDataTransformerTest {
 
     @Test
     public void testTransformEmpty() throws Exception {
-
+        when(transformer.transform("test","fr")).thenReturn("");
+        assertEquals(transformer.transform("test","fr"), "");
     }
 
     @Test
     public void testTransformNull() throws Exception {
-
+        when(transformer.transform(null,null)).thenReturn(null);
+        assertEquals(transformer.transform(null,null), null);
     }
 
 }

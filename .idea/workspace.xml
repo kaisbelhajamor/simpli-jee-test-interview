@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77741a56-f84b-4785-bc0b-c3e207c58719" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/simplifia/input/locale/LocaleExtractor.java" afterPath="$PROJECT_DIR$/src/main/java/fr/simplifia/input/locale/LocaleExtractor.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/simplifia/transform/SmpDataTransformer.java" afterPath="$PROJECT_DIR$/src/main/java/fr/simplifia/transform/SmpDataTransformer.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fr/simplifia/input/locale/LocaleExtractorTest.java" afterPath="$PROJECT_DIR$/src/test/java/fr/simplifia/input/locale/LocaleExtractorTest.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/test/java/fr/simplifia/transform/SmpDataTransformerTest.java" afterPath="$PROJECT_DIR$/src/test/java/fr/simplifia/transform/SmpDataTransformerTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,8 +42,8 @@
       <file leaf-file-name="SmpDataTransformerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/fr/simplifia/transform/SmpDataTransformerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+            <state relative-caret-position="470">
+              <caret line="45" column="61" lean-forward="true" selection-start-line="45" selection-start-column="61" selection-end-line="45" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -509,7 +506,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513029260067</updated>
-      <workItem from="1513029265892" duration="1405000" />
+      <workItem from="1513029265892" duration="1990000" />
     </task>
     <servers />
   </component>
@@ -523,9 +520,12 @@
     <history-entry file="SmpDataTransformerTest - 2017.12.11 at 23h 16m 52s.xml">
       <configuration name="SmpDataTransformerTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="SmpDataTransformerTest - 2017.12.11 at 23h 28m 52s.xml">
+      <configuration name="SmpDataTransformerTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1405000" />
+    <option name="totallyTimeSpent" value="1990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -540,7 +540,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35801104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35801104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -612,8 +612,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/fr/simplifia/transform/SmpDataTransformerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        <state relative-caret-position="470">
+          <caret line="45" column="61" lean-forward="true" selection-start-line="45" selection-start-column="61" selection-end-line="45" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
